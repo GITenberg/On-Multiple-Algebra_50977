@@ -1,10 +1,16 @@
 _repo: On-Multiple-Algebra_50977
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gibbs, Josiah Willard
     gutenberg_agent_id: '46176'
     url: http://www.gutenberg.org/2009/agents/46176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50977#On-Multiple-Algebra
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2016-01-20'
 gutenberg_type: Text
